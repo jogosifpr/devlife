@@ -3,5 +3,5 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 [Ilustrações elaboradas por Lucas Moraes](http://lmoraes.tumblr.com)
 # [Clique aqui para jogar! Link: devlife.esy.es](http://devlife.esy.es/jogo)
 
-![alt tag](/gallery/main.png?raw=true "Ilustração de Lucas Moraes")
+![alt tag](/illustration/main.png?raw=true "Ilustração de Lucas Moraes")
 
