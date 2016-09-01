@@ -17,7 +17,7 @@ Concept | Pixel Art
 <table>
     <tr>
         <td><b>Concept</b></td>
-        <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house.jpg" width="600" height="408"/></td>
+        <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house.jpg" width="735" height="500"/></td>
     </tr>
     <tr>
         <td><b>Alfa</b></td>
