@@ -9,7 +9,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
 
 
-# [Clique aqui para jogar! Link: devlife.esy.es](http://devlife.esy.es/jogo)
+# [JOGAR AGORA!](http://devlife.esy.es)
 
 ![alt tag](/illustration/main.png?raw=true "Ilustração de Lucas Moraes")
 
