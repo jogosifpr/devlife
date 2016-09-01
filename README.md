@@ -11,13 +11,13 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 
 Concept | Pixel Art
 --------- | ------
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/rafael.png" width="400" height="566"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/rafaelPixel_red.png" width="400" height="400"/>
+<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/rafael.png" width="300" height="424"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/rafaelPixel_red.png" width="300" height="300"/>
 
 ## Camila
 
 Concept | Pixel Art
 --------- | ------
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/camila.png" width="400" height="566"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/camilaPixel_red.png" width="400" height="400"/>
+<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/camila.png" width="300" height="424"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/camilaPixel_red.png" width="300" height="300"/>
 
 ## House
 
