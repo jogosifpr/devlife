@@ -6,7 +6,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 * Ana Paula Toome Wauke - Orientadeiro
 * Clelionei Caetano Galvão - Programadeiro
 * João Pedro dos Santos Thomé - Programadeiro 
-* Lucas Moraes de Mendonça - Programadeiro e Animadeiro ([Portfólio](http://lmoraes.tumblr.com))
+* Lucas Moraes de Mendonça - Programadeiro e Desenheiro ([Portfólio](http://lmoraes.tumblr.com))
 
 
 # [Clique aqui para jogar! Link: devlife.esy.es](http://devlife.esy.es/jogo)
