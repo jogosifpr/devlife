@@ -4,7 +4,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 #Equipe
 
 * Ana Paula Toome Wauke - Orientadeiro
-* Clelionei Caetano Galvão - Programadeiro (E-mail: ccaetanogalvao@gmail.com)
+* Clelionei Caetano Galvão - Programadeiro (ccaetanogalvao@gmail.com)
 * João Pedro dos Santos Thomé - Programadeiro 
 * Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro ([Portfólio](http://lmoraes.tumblr.com))
 
