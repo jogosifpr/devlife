@@ -27,7 +27,7 @@ Concept | Pixel Art
 --------- | ------
 <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/camila.png" width="300" height="424"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/camilaPixel_red.png" width="300" height="300"/>
 
-## House
+## Casa
 
 <table>
     <tr>
