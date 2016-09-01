@@ -1,13 +1,16 @@
 # Dev Life - Programação Consciente
 Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do IFPR - Campus Foz do Iguaçu.
 
-#Equipe
+# Equipe
 
 * Ana Paula Toome Wauke - Orientadeiro
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
 
+# Documentação
+
+Registro das informações relacionadas a todas as especificações técnicas do jogo, [clique aqui](https://github.com/jogosifpr/devlife/wiki).
 
 # [JOGAR AGORA!](http://devlife.esy.es)
 
