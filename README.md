@@ -10,7 +10,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 
 # Documentação
 
-Registro das informações relacionadas a todas as especificações técnicas do jogo, [clique aqui](https://github.com/jogosifpr/devlife/wiki).
+Registro das informações relacionadas as especificações técnicas do jogo, [clique aqui](https://github.com/jogosifpr/devlife/wiki).
 
 # [JOGAR AGORA!](http://devlife.esy.es)
 
