@@ -15,17 +15,11 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 
 # Concept Art
 
-## Rafael
+## Pesonagens
 
-Concept | Pixel Art
---------- | ------
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/rafael.png" width="300" height="424"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/rafaelPixel_red.png" width="300" height="300"/>
-
-## Camila
-
-Concept | Pixel Art
---------- | ------
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/camila.png" width="300" height="424"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/camilaPixel_red.png" width="300" height="300"/>
+Rafael Concept | Rafael Pixel Art |  Camila Concept | Camila Pixel Art
+--------- | ------- | --------- | ------
+<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/rafael.png" width="300" height="370"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/rafaelPixel_red.png" width="300" height="300"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/concept/camila.png" width="250" height="324"/> | <img src="https://github.com/jogosifpr/devlife/blob/master/illustration/characters/pixelArt/camilaPixel_red.png" width="300" height="300"/>
 
 ## Casa
 
