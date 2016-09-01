@@ -16,15 +16,15 @@ Concept | Pixel Art
 
 <table>
     <tr>
-        <td>Concept</td>
+        <td><b>Concept</b></td>
         <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house.jpg" width="600" height="408"/></td>
     </tr>
     <tr>
-        <td>Alfa</td>
+        <td><b>Alfa</b></td>
         <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/pixelArt/house_alfa.png" width="735" height="257"/></td>
     </tr>
     <tr>
-        <td>Beta</td>
+        <td><b>Beta</b></td>
         <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/pixelArt/house_beta.png"/></td>
     </tr>
 <table>
