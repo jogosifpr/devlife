@@ -14,14 +14,17 @@ Concept | Pixel Art
 
 ## House
 
-Concept 
----------
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house.jpg" width="400" height="400"/>
-
-Pixel Art Alfa
---------- 
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house_alfa.jpg" width="400" height="400"/>
-
-Pixel Art Beta
---------- 
-<img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house_beta.jpg" width="400" height="400"/>
+<table>
+    <tr>
+        <td>Concept</td>
+        <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/concept/house.jpg" width="600" height="408"/></td>
+    </tr>
+    <tr>
+        <td>Alfa</td>
+        <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/pixelArt/house_alfa.png" width="735" height="257"/></td>
+    </tr>
+    <tr>
+        <td>Beta</td>
+        <td><img src="https://github.com/jogosifpr/devlife/blob/master/illustration/house/pixelArt/house_beta.png"/></td>
+    </tr>
+<table>
