@@ -3,7 +3,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 
 # Equipe
 
-* Ana Paula Toome Wauke - Orientadeiro
+* Ana Paula Toome Wauke - Orientadeira
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
