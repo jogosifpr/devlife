@@ -1,5 +1,5 @@
 # Dev Life - Programação Consciente
-Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do IFPR - Campus Foz do Iguaçu.
+Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do IFPR - Campus Foz do Iguaçu. (Em breve projeto/código fonte disponível para download)
 
 # Equipe
 
