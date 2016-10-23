@@ -14,8 +14,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 
 Não deixe de ler nossa especificação técnica do projeto! [Clique aqui](https://github.com/jogosifpr/devlife/wiki)
 
-# [JOGAR AGORA2!](https://github.com/jogosifpr/devlife/blob/master/game/index.html)
-# [JOGAR AGORA!](http://devlife.esy.es)
+# [JOGAR AGORA!](http://htmlpreview.github.com/?https://github.com/jogosifpr/devlife/blob/master/game/index.html)
 
 ![alt tag](/illustration/main.png?raw=true "Ilustração de Lucas Moraes")
 
