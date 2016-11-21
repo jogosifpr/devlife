@@ -9,6 +9,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
+* [Maurício Fontana - Músiqueiro](https://soundcloud.com/moritzo/dev-life-main)
 
 # Documentação
 
