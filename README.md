@@ -10,7 +10,7 @@ Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do I
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
 * [Maurício Fontana - Músiqueiro](https://soundcloud.com/moritzo/dev-life-main)
-* Mateus Meneses - Músiqueiro
+* [Mateus Meneses - Músiqueiro](https://soundcloud.com/mateusmeneses)
 * Professores e alunos voluntários do IFPR.
 
 # Documentação
