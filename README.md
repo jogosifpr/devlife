@@ -1,4 +1,4 @@
-# Dev Life - Programação Consciente
+# Dev LifE
 Serious Game Desenvolvido no Instituto Federal do Paraná - Campus Foz do Iguaçu.
 
 # Equipe
