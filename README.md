@@ -1,11 +1,10 @@
-# (Em dezembro o código fonte disponível para download)
-
 # Dev Life - Programação Consciente
-Serious game desenvolvido pelo Grupo de Pesquisa e Desenvolvimento de Jogos do IFPR - Campus Foz do Iguaçu.
+Serious Game Desenvolvido no Instituto Federal do Paraná - Campus Foz do Iguaçu.
 
 # Equipe
 
 * Ana Paula Toome Wauke - Orientadeira
+* Marcela Turim Koschevic - Orientadeira
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
