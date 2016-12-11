@@ -12,13 +12,13 @@ Serious Game Desenvolvido no Instituto Federal do Paraná - Campus Foz do Iguaç
 * [Mateus Meneses - Músiqueiro](https://soundcloud.com/mateusmeneses)
 * Professores e alunos voluntários do IFPR.
 
-# Documentação
-
-Não deixe de ler nossa especificação técnica do projeto! [Clique aqui](https://github.com/jogosifpr/devlife/wiki)
-
 # [JOGAR AGORA!](http://devlife.esy.es)
 
 ![alt tag](/illustration/main.png?raw=true "Ilustração de Lucas Moraes")
+
+# Documentação
+
+Não deixe de ler nossa especificação técnica do projeto! [Clique aqui](https://github.com/jogosifpr/devlife/wiki)
 
 # Concept Art
 
