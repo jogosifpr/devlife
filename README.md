@@ -1,5 +1,5 @@
 # Dev Life - Programação Consciente
-*Project Open Source* - *Serious Game* Desenvolvido no Instituto Federal do Paraná - Campus Foz do Iguaçu. [Download Project](https://github.com/jogosifpr/devlife/archive/master.zip)
+*Project Open Source* - *Serious Game* Desenvolvido no Instituto Federal do Paraná - Campus Foz do Iguaçu. [Download do Projeto](https://github.com/jogosifpr/devlife/archive/master.zip)
 
 # Equipe
 
