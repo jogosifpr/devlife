@@ -4,7 +4,7 @@
 # Equipe
 
 * Ana Paula Toome Wauke - Orientadeira
-* Marcela Turim Koschevic - Orientadeira
+* Marcela Turim Koschevic - Documentadeira
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
