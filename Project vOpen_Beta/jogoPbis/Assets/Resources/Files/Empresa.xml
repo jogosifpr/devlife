@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<dialogo id="1">
+		<fala id="1">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>Tudo bem com você, Rafael?</texto>
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Com certeza, sobre o que você gostaria de conversar?</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>A empresa está passando por um momento difícil...</texto>
+		</fala>
+		<fala id="4">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>E estamos realizando alguns cortes de funcionários...</texto> 
+		</fala>
+		<fala id="5">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>E...</texto> 
+		</fala>
+		<fala id="6">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>Você está demitido!</texto> 
+		</fala>
+		<fala id="7">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Caramba! E como vou pagar minhas contas agora?</texto>
+		</fala>
+		<fala id="8">
+			<personagem>Chefe: </personagem>
+			<foto>Fotos/Dialogo/Chefe</foto>
+			<texto>Desculpa, mas isto faz parte da vida, já foi depositado o dinheiro do seu acerto. Você pode sair da empresa.</texto> 
+		</fala>
+	</dialogo>
+	
+	<dialogo id="2">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Poxa vida, o que eu vou fazer agora…</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Não sei o que vou dizer para minha esposa…</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Vou precisar trabalhar de algum jeito para pagar minhas dívidas…</texto>
+		</fala>
+		<fala id="4">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Hmm. Tive uma ideia!!!</texto>
+		</fala>
+	</dialogo>
+</document>
