@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+
+	<dialogo id="1">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você me parece meio triste, o que aconteceu?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Bem... É que... Acontece que eu pensei em uma coisa...</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Eu vou ser empreendedor, sabe? Isso tá super em alta hoje em dia! Vou criar uma startup de milhões!</texto> 
+		</fala>
+		<fala id="4">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você foi demitido?</texto>
+		</fala>
+		<fala id="5">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Depende do ponto de vista...</texto>
+		</fala>
+		<fala id="6">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>...</texto>
+		</fala>
+		<fala id="7">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Na verdade é isso mesmo…</texto>
+		</fala>
+		<fala id="8">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Poxa, mas está tudo bem com você?</texto>
+		</fala>
+		<fala id="9">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Sim, estou bem. Já decidi que vou trabalhar em casa como freelancer. Vou colocar meu e-mail de contato no anúncio do jornal.</texto>
+		</fala>
+		<fala id="10">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Espero que ocorra tudo certo… E não deixe de conversar comigo para te ajudar. Acho melhor você ir descansar agora!</texto>
+		</fala>
+	</dialogo>
+
+	<dialogo id="2">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você precisa ir até a cama para dormir, amanhã conversamos!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="3">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Tava pensando em mudar nossa casa, o que você acha disso?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>- Acho que este tamanho é bom.</texto>
+			<texto>- Seria legal se ela fosse de 2 andares!</texto>
+			<texto>- Talvez, mas será que vai chover hoje?</texto>
+			<subDialogo id="1">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Acho que este tamanho é bom.</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Ok...</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="2">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Seria legal se ela fosse de 2 andares!</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Nossa, mas isso iria gastar muito tempo e dinheiro!</texto>
+				</fala>
+				<fala id="3">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Verdade, então vamos manter do jeito que está!</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="3">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Talvez, mas será que vai chover hoje?</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Você não está muito afim de conversar não é...</texto>
+				</fala>
+			</subDialogo>
+		</fala>
+	</dialogo>
+
+	<dialogo id="4">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Se você tiver dúvidas, pode contar comigo que vou estar te ajudando!</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Obrigado!</texto> 
+		</fala>
+	</dialogo>
+	
+	<dialogo id="5">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você tem notado que o tempo está passando muito rapido?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É verdade, achei que era minha impressão...</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>É melhor eu organizar minhas tarefas, se não vou ter problemas, você deveria fazer o mesmo!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="6">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Existe momentos que fico muito cansado, e não consigo fazer mais nada...</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Nesse momentos é bom você ir dormir!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="7">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você precisa de ajuda?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Nada não...</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Ok ok.</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="8">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>O que você gostaria de saber?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>- Como funciona a energia?</texto>
+			<texto>- Como funciona as contas?</texto>
+			<texto>- Já encontrei a resposta que eu gostaria!</texto>
+			<subDialogo id="1">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Como funciona a energia?</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>A energia é utilizada para trabalhar no computador, por isso é importante organizar suas atividades!</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="2">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Como funciona as contas?</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>A cada dia que vai passando, está chegando mais despesas para nossa casa.</texto>
+				</fala>
+				<fala id="3">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Tente não deixar acumular muitas dívidas, isso pode ser um problema no futuro!</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="3">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Já encontrei a resposta que eu gostaria!</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Que ótimo!</texto>
+				</fala>
+			</subDialogo>
+		</fala>
+	</dialogo>
+
+	<dialogo id="9">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você tem acompanhado as notícias?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Um pouco...</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Estava passando um grupo de programadores desenvolvendo tecnologia militar, e que seria utilizada para financiar uma guerra!</texto> 
+		</fala>
+		<fala id="4">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É mesmo? Poderia surgir muitas guerras à partir disto.</texto> 
+		</fala>
+		<fala id="5">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Espero que não aconteça mais guerras e que as pessoas conseguiam entender umas as outras...</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="10">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Estava pensando, nas contas...</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Também estava preocupada com isso... Mas não deixe acumular 3 contas que vai ficar tudo bem!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="11">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>É uma pena que muitas pessoas não possuem consciência da forma que a tecnologia pode afetar as pessoas.</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Sim é mesmo...</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>E como anda os seus projetos?</texto> 
+		</fala>
+		<fala id="4">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Havia visto uma proposta… Mas não valia muito dinheiro.</texto> 
+		</fala>
+		<fala id="5">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Às vezes o dinheiro não é tudo, contribuir com as pessoas pode trazer coisas que o dinheiro não consegue pagar.</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="12">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Você parece que está pensando em alguma coisa...</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Não foi nada, é que eu estava pensando em sair de casa por algumas horas!</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Entendo, depois me conta o que você fez, estou meio ocupado no computador.</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="13">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Impressionante como as pessoas confia tanto na tecnologia para resolver seus próprios problemas pessoais.</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É mesmo, mas porque você começou a falar isso do nada?</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Desculpa, é que estava lendo uma notícia que vários alunos utilizam a internet para copiar as respostas dos trabalhos acadêmicos.</texto> 
+		</fala>
+		<fala id="4">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>As pessoas hoje em dia querem resolver as coisas muito rápido.</texto> 
+		</fala>
+		<fala id="5">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>O que vem fácil, também vai embora fácil, mas o que é adquirido com esforço vai ser difícil de ser perdido.</texto> 
+		</fala>
+		<fala id="6">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Entendo, o resultado que eles conseguiram foi apenas uma ilusão da realidade...</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="14">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você está pensando nas escolhas realizadas por você?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>- Sim, é claro.</texto>
+			<texto>- Não muito...</texto>
+			<texto>- É que eu... e...</texto>
+			<subDialogo id="1">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Sim, é claro.</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Eu tento não pensar somente em mim, de modo que o lucro não seja a principal motivação.</texto>
+				</fala>
+				<fala id="3">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Fico feliz que está pensando desta maneira. Melhor eu deixar você ir trabalhar!</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="2">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Não muito...</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Tenta não pensar só com valores tecnológicos, mas no desenvolvimento humano também.</texto>
+				</fala>
+				<fala id="3">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>...</texto>
+				</fala>
+			</subDialogo>
+			<subDialogo id="3">
+				<fala id="1">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>É que eu... e...</texto>
+				</fala>
+				<fala id="2">
+					<personagem>Camila: </personagem>
+					<foto>Fotos/Dialogo/Camila</foto>
+					<texto>Está tudo bem com você?</texto>
+				</fala>
+				<fala id="3">
+					<personagem>Rafael: </personagem>
+					<foto>Fotos/Dialogo/Rafael</foto>
+					<texto>Sim, mas é que tenho muito trabalhar a fazer... Tenho que ir!</texto>
+				</fala>
+			</subDialogo>
+		</fala>
+	</dialogo>
+
+	<dialogo id="15">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você acha que os jogos podem ajudar as pessoas?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Sim, foi um dos motivos para terminar minha graduação desenvolvendo um jogo.</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Espero que isso contribua com formação da consciência de futuros profissionais de informática!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="16">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você parece cansado!</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É que já passou algum tempo... E estava pensando como vai ser os próximos dias.</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Fica tranquilo, vai dar tudo certo!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="17">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você parece cansado!</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É que já passou algum tempo... E estava pensando como vai ser os próximos dias.</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Fica tranquilo, vai dar tudo certo!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="18">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Estava lendo uma notícia que o IFPR trabalha com seus alunos utilizando tecnologia!</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É mesmo, e o que estavam fazendo?</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Foi incrível ver alunos trabalhando com tecnologia da estação meteorológica e proporcionar conhecimento a partir dela!</texto> 
+		</fala>
+		<fala id="4">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Sim, na minha época de graduação havia alguns colegas trabalhavam nessa área.</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="19">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você sabia que existe toneladas de lixo eletrônico no planeta?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>É necessário uma conscientização maior por parte da população da destinação do lixo.</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Sim, pois é um tipo de lixo tóxico que destrói ainda mais o nosso meio ambiente.</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="20">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>O que foi?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Você trancou a porta da nossa casa?</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Eu estou procurando a chave, assim que encontrar vamos sair juntos!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="21">
+		<fala id="1">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>O que você pensa para o futuro?</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Bem, eu gostaria de criar uma empresa de jogos com os meus amigos!</texto> 
+		</fala>
+		<fala id="3">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Nossa que legal, imagino que você fez ótimos amigos durante esse tempo!</texto> 
+		</fala>
+	</dialogo>
+
+	<dialogo id="22">
+		<fala id="1">
+			<personagem>Rafael: </personagem>
+			<foto>Fotos/Dialogo/Rafael</foto>
+			<texto>Existe muitos projetos para ser feito!</texto> 
+		</fala>
+		<fala id="2">
+			<personagem>Camila: </personagem>
+			<foto>Fotos/Dialogo/Camila</foto>
+			<texto>Você vai precisar saber escolher as melhores propostas que você acredita!</texto> 
+		</fala>
+	</dialogo>
+
+</document>

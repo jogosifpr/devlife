@@ -1,0 +1,9 @@
+﻿@Clelionei
+- Implementado:
+	* Tutorial na sala do chefe, casa, computador, dividas.
+- Correção:
+	* Arquivos do e-mail, noticias e projetos.
+- Modificado:
+	* 
+- Andamento:
+	*
