@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<projeto id="1">
+		<titulo>Envio de Mensagens </titulo>
+		<descricao></descricao>
+		<tempo>5</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>250</valorMin>
+		<valorMax>250</valorMax>
+	</projeto>
+
+	<projeto id="2">
+		<titulo>Deficientes Visuais </titulo>
+		<descricao> </descricao>
+		<tempo>3</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>75</valorMin>
+		<valorMax>75</valorMax>
+	</projeto>
+
+	<projeto id="3">
+		<titulo>Jogo Pure Blood</titulo>
+		<descricao></descricao>
+		<tempo>4</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>175</valorMin>
+		<valorMax>175</valorMax>
+	</projeto>
+
+	<projeto id="4">
+		<titulo>Controle de Drones </titulo>
+		<descricao> </descricao>
+		<tempo>7</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>250</valorMin>
+		<valorMax>250</valorMax>
+	</projeto>
+
+	<projeto id="5">
+		<titulo>Jogo Educativo </titulo>
+		<descricao></descricao>
+		<tempo>3</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>100</valorMin>
+		<valorMax>100</valorMax>
+	</projeto>
+
+	<projeto id="6">
+		<titulo>Previsão do Tempo </titulo>
+		<descricao> </descricao>
+		<tempo>6</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>230</valorMin>
+		<valorMax>230</valorMax>
+	</projeto>
+
+	<projeto id="7">
+		<titulo>Doação de Livros </titulo>
+		<descricao> </descricao>
+		<tempo>2</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>80</valorMin>
+		<valorMax>80</valorMax>
+	</projeto>
+
+	<projeto id="8">
+		<titulo>Aulas com Jogos </titulo>
+		<descricao> </descricao>
+		<tempo>5</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>200</valorMin>
+		<valorMax>200</valorMax>
+	</projeto>
+
+	<projeto id="9">
+		<titulo>Colar em Prova </titulo>
+		<descricao> </descricao>
+		<tempo>4</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>160</valorMin>
+		<valorMax>160</valorMax>
+	</projeto>
+
+	<projeto id="10">
+		<titulo>Fazer Trabalhos </titulo>
+		<descricao> </descricao>
+		<tempo>3</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>100</valorMin>
+		<valorMax>100</valorMax>
+	</projeto>
+
+	<projeto id="11">
+		<titulo>Envio de Torpedos </titulo>
+		<descricao> </descricao>
+		<tempo>6</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>240</valorMin>
+		<valorMax>240</valorMax>
+	</projeto>
+
+	<projeto id="12">
+		<titulo>Sistema Pirata </titulo>
+		<descricao> </descricao>
+		<tempo>5</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>175</valorMin>
+		<valorMax>175</valorMax>
+	</projeto>
+
+	<projeto id="13">
+		<titulo>Palestras On-line </titulo>
+		<descricao> </descricao>
+		<tempo>3</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>0</valorMin>
+		<valorMax>0</valorMax>
+	</projeto>
+
+	<projeto id="14">
+		<titulo>Sistema Pirâmide </titulo>
+		<descricao> </descricao>
+		<tempo>6</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>230</valorMin>
+		<valorMax>230</valorMax>
+	</projeto>
+
+	<projeto id="15">
+		<titulo>Atividade Esportiva </titulo>
+		<descricao> </descricao>
+		<tempo>3</tempo>
+		<dificuldade>Baixa</dificuldade>
+		<valorMin>125</valorMin>
+		<valorMax>125</valorMax>
+	</projeto>
+
+</document>
