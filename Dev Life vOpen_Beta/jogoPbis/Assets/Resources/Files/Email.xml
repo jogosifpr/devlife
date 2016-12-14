@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	
+	<email id="1">
+		<assunto>Envio de mensagens</assunto>
+		<remetente>Osvaldir</remetente>
+		<data>10/08/2015</data>
+		<endereco>osvaldir@email.com.br</endereco>
+		<perfil>Assis Chateaubriand, 41 anos</perfil>
+		<corpo>Olá Rafael, sou Osvaldir da empresa Texison Labs Net e atualmente estou trabalhando numa equipe que está desenvolvendo um projeto robusto de envio de e-mail de propaganda para usuários leigos, o objetivo é conseguir dinheiro com publicidade, acesso a dados de usuários, massificação de alcance e utilização de processamento alheio. Como você pode ver o projeto é bem grande mas vai gerar muita grana é claro, o pagamento vai ser alto também. O que acha? [VALOR: $ 250]</corpo>
+		<foto>Fotos/1</foto>
+		<idProjeto>1</idProjeto>
+	</email>
+	
+	<email id="2">
+		<assunto>Deficientes visuais</assunto>
+		<remetente>Gabriel</remetente>
+		<data>09/08/2015</data>
+		<endereco>gabriel@email.com.br</endereco>
+		<perfil>Astorga, 43 anos</perfil>
+		<corpo>Olá, estou precisando de ajuda, eu e alguns amigos estamos desenvolvendo um sistema de inclusão para auxiliar deficientes visuais a pegar ônibus, desta forma, vamos criar acessibilidade para pessoas que possuem este tipo de problema, possibilitando acesso em qualquer lugar, mas atualmente estamos sem dinheiro, poderia nos ajudar? [VALOR: $ 75]</corpo>
+		<foto>Fotos/2</foto>
+		<idProjeto>2</idProjeto>
+	</email>
+	
+	<email id="3">
+		<assunto>Jogo com exploração de violência</assunto>
+		<remetente>Flavia</remetente>
+		<data>08/08/2015</data>
+		<endereco>flavia@email.com.br</endereco>
+		<perfil>Barracão, 22 anos</perfil>
+		<corpo>Olá Rafael, sou a Flavia do RH da empresa XGames e eu queria saber se você tem interesse em se integrar à nossa equipe para auxiliar no nosso próximo projeto já em desenvolvimento. Vai ser um jogo massivo, chamado Pure Blood, onde a temática principal é a guerra e ele já tem todo um suporte de técnicas behavoristas para deixar os jogadores dependentes do jogo. Vai ser um mega projeto e vai ser algo que envolve um bom pagamento! Espero que você queira se integrar à nossa equipe. [VALOR: $ 175]</corpo>
+		<foto>Fotos/3</foto>
+		<idProjeto>3</idProjeto>
+	</email>
+	
+	<email id="4">
+		<assunto>Controle de Drones</assunto>
+		<remetente>Andressa</remetente>
+		<data>08/08/2015</data>
+		<endereco>andressa@email.com.br</endereco>
+		<perfil>Campo Largo, 31 anos</perfil>
+		<corpo>Como vai? Sei que você desenvolve sistemas, mas gostaria de saber se tem interesse em migrar para outras áreas, já pensou em trabalhar com tecnologia militar? Você tem potencial para criar qualquer coisa, e aceitando minha proposta eu vou retribuir com grande investimento, eu só preciso que você faça um projeto protótipo de controle de drones para ser utilizado como soldado remoto, em seguida, eu vou resolver a sequência do projeto. [VALOR: $ 250]</corpo>
+		<foto>Fotos/4</foto>
+		<idProjeto>4</idProjeto>
+	</email>
+	
+	<email id="5">
+		<assunto>Jogo Educativo</assunto>
+		<remetente>Ana Paula</remetente>
+		<data>12/02/2015</data>
+		<endereco>anapaula@email.com.br</endereco>
+		<perfil>Capanema, 26 anos</perfil>
+		<corpo>Prezado, gostaria de saber se você possui interesse em desenvolver um jogo na linha educacional para conscientizar as pessoas, de forma lúdica, sobre utilização da tecnologia, a questão não é deixar de utilizar, mas saber que ela pode ser usada tanto para o bem quanto para o mal, e que no futuro ela vai proporcionar o desenvolvimento ou retrocesso em nossa sociedade. O sistema é para fins acadêmicos, então não possui tanto investimento. [VALOR: $ 100]</corpo>
+		<foto>Fotos/5</foto>
+		<idProjeto>5</idProjeto>
+	</email>
+	
+	<email id="6">
+		<assunto>Previsão do tempo</assunto>
+		<remetente>Milton</remetente>
+		<data>11/06/2015</data>
+		<endereco>milton@email.com.br</endereco>
+		<perfil>Cascavel, 43 anos</perfil>
+		<corpo>Opa, tudo bom? Queria saber se você tem interesse em trabalhar em um projeto para desenvolver uma estação meteorológica que vai ser utilizada com os alunos das escolas públicas da cidade. A ideia é que o aparelho realize controle de temperatura do tempo para que possa colaborar com o desenvolvimento sustentável da nossa região local. Estou disposto a pagar uma boa remuneração. Abraços! [VALOR: $ 230]</corpo>
+		<foto>Fotos/6</foto>
+		<idProjeto>6</idProjeto>
+	</email>
+	
+	<email id="7">
+		<assunto>Doação de livros</assunto>
+		<remetente>Lorena Pirene</remetente>
+		<data>26/05/2015</data>
+		<endereco>lorena@email.com.br</endereco>
+		<perfil>Colombo, 27 anos</perfil>
+		<corpo>Olá Rafael, tudo bom, sou a Lorena e trabalho aqui na ONG Cultura no Bairro e estamos com um projeto de doação e troca de livros, pensamos que você poderia nos ajudar fazendo um sistema para automatizar o processo, permitindo uma maior doação de livros para nossa ONG. Infelizmente o orçamento que temos disponível é bem baixo, você poderia fazer o projeto para nós? [VALOR: $ 80]</corpo> 
+		<foto>Fotos/5</foto>
+		<idProjeto>7</idProjeto>
+	</email>
+	
+	<email id="8">
+		<assunto>Aulas com gamification</assunto>
+		<remetente>Raquel Xerazade</remetente>
+		<data>16/10/2015</data>
+		<endereco>raquel@email.com.br</endereco>
+		<perfil>Coronel Vivida, 34 anos</perfil>
+		<corpo>Tudo bem senhor? Tenho uma ideia muito boa, sou professora e vejo que meus alunos estão um pouco entediados com as aulas de idioma, então estava pensando se seria possível você desenvolver um sistema que misture a temática de jogos com o material didático que utilizo em sala de aula. O que acha? [VALOR: $ 200]</corpo>
+		<foto>Fotos/3</foto>
+		<idProjeto>8</idProjeto>
+	</email>
+	
+	<email id="9">
+		<assunto>Quem não cola não sai da escola</assunto>
+		<remetente>Eduardo Cardoso</remetente>
+		<data>19/03/2015</data>
+		<endereco>eduardo@email.com.br</endereco>
+		<perfil>Curitiba, 19 anos</perfil>
+		<corpo>Eae, tudo bom com vc? Tava aqui de boa, no boteco com uns amigos da faculdade e agente teve uma ideia muinto boa! vc podia faze um programa que ia ajudar agente a colar durante as provas, como se fosse um negócio que pesquisa e traz as resposta de uma pergunta pra agente. Agente apenas quer terminar essa matéria chata do curso, porque não vamos utilizar tudo o que os professores estão ensinando em nossas vidas. Pode ajudar agente? [VALOR: $ 160]</corpo> 
+		<foto>Fotos/6</foto>
+		<idProjeto>9</idProjeto>
+	</email>
+	
+	<email id="10">
+		<assunto>Ajudar os estudantes a terem sucesso</assunto>
+		<remetente>Jessica</remetente>
+		<data>19/03/2015</data>
+		<endereco>jessica@email.com.br</endereco>
+		<perfil>Educação a Distância, 20 anos</perfil>
+		<corpo>Beleza? Você poderia me ajudar? Estou precisando de ajuda… Tenho muitos trabalhos acadêmicos e precisava de algo que pudesse facilitar minha vida, estou cansada de passar o tempo estudando e gostaria de ter mais tempo livre, mesmo que seja só um período da minha vida desse jeito, não quero deixar para me divertir depois! A ideia é fazer uma rede social de trabalhos acadêmicos para facilitar na cópia da galera. Tenho outros amigos que também tem interesse nisso. Fico esperando sua resposta. [VALOR: $ 100]</corpo> 
+		<foto>Fotos/5</foto>
+		<idProjeto>10</idProjeto>
+	</email>
+	
+	<email id="11">
+		<assunto>Envio de torpedos(SMS)</assunto>
+		<remetente>Anônimo</remetente>
+		<data>20/03/2015</data>
+		<endereco>anônimo@email.com.br</endereco>
+		<perfil>Foz do Iguaçu, 45 anos</perfil>
+		<corpo>Fala rapa! Qual eh cumpadi! Tú tem como fase um favorzão pra mim? Preciso de um programa que me ajude a agilizar de mandar uns torpedo! Eu preciso que o negócio funcione mesmo que o sinal do celular seja bem baixo, que possa ser mandado de locais remotos. Não posso te fala mais sobre o trampo, só saiba que a grana é alta! Morou? [VALOR: $ 240]</corpo> 
+		<foto>Fotos/1</foto>
+		<idProjeto>11</idProjeto>
+	</email>
+	
+	<email id="12">
+		<assunto>Lançamento de filmes de graça</assunto>
+		<remetente>Roger</remetente>
+		<data>21/03/2015</data>
+		<endereco>roger@email.com.br</endereco>
+		<perfil>Goioerê, 21 anos</perfil>
+		<corpo>Ei rapaz, como vai? Você percebeu que está muito caro sair de casa hoje em dia? Adoro filmes, mas com o preço desses imposto e nosso governo roubando, assistir filmes ficou bem caro, estava pensando se você poderia criar um sistema que armazena os filmes para assistir no computador sem que eu precise pagar para ver eles, posso oferecer bastante dinheiro para que isso seja realizado, já que vou ver filmes de graças! [VALOR: $ 175]</corpo> 
+		<foto>Fotos/2</foto>
+		<idProjeto>12</idProjeto>
+	</email>
+	
+	<email id="13">
+		<assunto>Comunidade consciente</assunto>
+		<remetente>Barbara Moyano</remetente>
+		<data>21/03/2015</data>
+		<endereco>barbara@email.com.br</endereco>
+		<perfil>Irati, 38 anos</perfil>
+		<corpo>Oi, me passaram seu contato e falaram que você pode criar sistemas. Eu precisava saber se você poderia me ajudar… É que eu trabalho em um projeto social e tenho visto muitos problemas durante todo esse tempo, o principal deles é a falta de motivação e conscientização das pessoas que vivem na comunidade, eu estava pensando que se eu conseguisse alcançar essas pessoas de uma certa forma, teria como mudar a vida de cada uma delas, mas eu sou uma só pessoa e não tenho muita habilidade em falar publicamente. Eu conheço muitas pessoas que poderiam contribuir com palestras e conversas on-line, o que poderia ajudar a comunidade. Mas eu não tenho dinheiro para financiar o projeto, se não for atrapalhar, teria como você ajudar a gente? [VALOR: $ 0]</corpo> 
+		<foto>Fotos/4</foto>
+		<idProjeto>13</idProjeto>
+	</email>
+	
+	<email id="14">
+		<assunto>Pirâmide do poder</assunto>
+		<remetente>Raul Santos</remetente>
+		<data>21/03/2015</data>
+		<endereco>raul@email.com.br</endereco>
+		<perfil>Foz, 24 anos</perfil>
+		<corpo>Olá, eu fiquei sabendo que você está procurando por projetos interessantes para trabalhar e acredito que procure boa rentabilidade nos seus trabalhos... Pois bem, estou te oferecendo uma oportunidade única de trabalhar com um novo projeto que estamos desenvolvendo. Se trata de um sistema de voz sobre IP, inovador e único no mundo, iremos trabalhar com pacotes e sistemas de pirâmides, então pode ter certeza que você vai ganhar muito dinheiro com isso. [VALOR: $ 230]</corpo> 
+		<foto>Fotos/2</foto>
+		<idProjeto>14</idProjeto>
+	</email>
+	
+	<email id="15">
+		<assunto>Atividades para comunidade</assunto>
+		<remetente>Ronaldo</remetente>
+		<data>21/03/2015</data>
+		<endereco>ronaldo@email.com.br</endereco>
+		<perfil>Jacarezinho, 23 anos</perfil>
+		<corpo>Olá, eu trabalho realizando atividades esportivas para crianças de uma comunidade carente, como são muitas crianças, estou começando a ficar sem controle, pois eu anoto tudo no papel, e acabo perdendo as anotações com o tempo. Iria facilitar muito se tivesse um sistema para auxiliar nesse controle, objetivo é utilizar o esporte como ferramenta para desviar as crianças para o caminho correto, espero seu retorno para o trabalho, fico no aguardo. [VALOR $ 125]</corpo> 
+		<foto>Fotos/2</foto>
+		<idProjeto>15</idProjeto>
+	</email>
+
+</document>
