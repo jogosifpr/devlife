@@ -1,8 +1,8 @@
-﻿@Clelionei
+﻿@Clelionei, @Joao, @Lucas
 - Implementado:
-	* Tutorial na sala do chefe, casa, computador, dividas.
+	* Disponibilização do projeto.
 - Correção:
-	* Arquivos do e-mail, noticias e projetos.
+	* 
 - Modificado:
 	* 
 - Andamento:
