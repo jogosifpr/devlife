@@ -1,0 +1,9 @@
+﻿@Clelionei, @Joao, @Lucas
+- Implementado:
+	* Disponibilização do projeto.
+- Correção:
+	* 
+- Modificado:
+	* 
+- Andamento:
+	*
