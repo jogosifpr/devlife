@@ -14,7 +14,7 @@
 
 # [JOGAR AGORA!](http://devlife.esy.es)
 
-![alt tag](/illustration/main.png?raw=true "Ilustração de Lucas Moraes")
+![alt tag](https://github.com/jogosifpr/devlife/blob/master/Illustration/Scenes/Intro/layout_final.png?raw=true "Ilustração de Lucas Moraes")
 
 # Documentação
 
