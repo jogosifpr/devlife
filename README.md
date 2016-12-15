@@ -18,4 +18,4 @@
 
 # Documentação
 
-Não deixe de ler nossa especificação técnica do projeto! [Clique aqui](https://github.com/jogosifpr/devlife/wiki)
+Não deixe de ler nossa especificação técnica do projeto! [[Clique Aqui]](https://github.com/jogosifpr/devlife/wiki)
