@@ -3,8 +3,8 @@
 
 # Equipe
 
-* Ana Paula Toome Wauke - Orientadeira
-* Marcela Turim Koschevic - Documentadeira
+* [Ana Paula Toome Wauke - Orientadeira](mailto:ana.wauke@ifpr.edu.br)
+* [Marcela Turim Koschevic - Documentadeira](mailto:marcela.turim@ifpr.edu.br)
 * [Clelionei Caetano Galvão - Programadeiro](mailto:ccaetanogalvao@gmail.com)
 * [João Pedro dos Santos Thomé - Programadeiro](mailto:jpsthome@gmail.com)
 * [Lucas Moraes de Mendonça - Programadeiro e Animadeiro/Desenheiro](http://lmoraes.tumblr.com)
