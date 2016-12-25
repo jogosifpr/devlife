@@ -3,11 +3,11 @@
 	
 	<email id="1">
 		<assunto>Envio de mensagens</assunto>
-		<remetente>Osvaldir</remetente>
+		<remetente>Wislande</remetente>
 		<data>10/08/2015</data>
-		<endereco>osvaldir@email.com.br</endereco>
+		<endereco>wislande@email.com.br</endereco>
 		<perfil>Assis Chateaubriand, 41 anos</perfil>
-		<corpo>Olá Rafael, sou Osvaldir da empresa Texison Labs Net e atualmente estou trabalhando numa equipe que está desenvolvendo um projeto robusto de envio de e-mail de propaganda para usuários leigos, o objetivo é conseguir dinheiro com publicidade, acesso a dados de usuários, massificação de alcance e utilização de processamento alheio. Como você pode ver o projeto é bem grande mas vai gerar muita grana é claro, o pagamento vai ser alto também. O que acha? [VALOR: $ 250]</corpo>
+		<corpo>Olá Rafael, sou Wislande da empresa Texison Labs Net e atualmente estou trabalhando numa equipe que está desenvolvendo um projeto robusto de envio de e-mail de propaganda para usuários leigos, o objetivo é conseguir dinheiro com publicidade, acesso a dados de usuários, massificação de alcance e utilização de processamento alheio. Como você pode ver o projeto é bem grande mas vai gerar muita grana é claro, o pagamento vai ser alto também. O que acha? [VALOR: $ 250]</corpo>
 		<foto>Fotos/1</foto>
 		<idProjeto>1</idProjeto>
 	</email>
